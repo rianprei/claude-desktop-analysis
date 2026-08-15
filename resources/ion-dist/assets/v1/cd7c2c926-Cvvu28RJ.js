@@ -1,0 +1,1 @@
+var r=class extends Error{constructor(r,s,t){super(`${r} ${s} failed (${t})`),this.status=t,this.name="FetchJsonError"}};export{r as t};

@@ -1,0 +1,1 @@
+import{xf as a}from"./shared-0-ASFdPfVu.js";import{Ll as o,Tu as r}from"./shared-4-DgPI-kM5.js";function e(){const e=a("coach_eap_enabled"),n=o(),s=r();return e&&n&&!s}function n(){const e=a("claudeai_majordomo_enabled"),n=o(),s=r();return e&&n&&!s}export{e as n,n as t};

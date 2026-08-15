@@ -1,0 +1,1 @@
+var a="ema_auto_reconnect";function e(e,t){const n=new URL(e,"https://relative-base.invalid");return n.searchParams.set(a,t),n.pathname.replace(/^\/{2,}/,"/")+n.search+n.hash}export{e as n,a as t};

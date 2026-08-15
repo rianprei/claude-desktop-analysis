@@ -1,0 +1,1 @@
+var o={"hello claude how are you today":"/dev-loop/hello-claude.wav"};export{o as DEV_UTTERANCES};

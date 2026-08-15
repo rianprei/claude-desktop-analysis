@@ -1,0 +1,1 @@
+import{xl as e}from"./shared-4-DgPI-kM5.js";var i={staleTime:3e5,specConnectFlowEnabled:!0,pinToBffRegardlessOfGate:!0,visibilityTagsWhenConfigEmpty:["commercial","gsuite","gsuite-google"],includeCommunity:!0};function s(){e(i)}export{s as n,i as t};

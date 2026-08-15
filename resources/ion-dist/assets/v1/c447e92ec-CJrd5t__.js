@@ -1,0 +1,1 @@
+import{q as o}from"./vendor-all-0-y3jtzwCY.js";var e=o()(o=>({debugInfo:void 0,setDebugInfo:e=>o({debugInfo:e})}));function n(){return e(o=>o.setDebugInfo)}export{n,e as t};

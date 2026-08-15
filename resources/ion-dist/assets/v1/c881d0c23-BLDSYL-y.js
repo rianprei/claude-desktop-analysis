@@ -1,0 +1,1 @@
+import{gs as e}from"./shared-5-C6AoxPkL.js";function r(r,t){if("string"!=typeof r)return;const n=r.replace(e,"").replace(/\s+/g," ").trim();return 0!==n.length?n.length<=t?n:[...n].slice(0,t).join(""):void 0}export{r as t};

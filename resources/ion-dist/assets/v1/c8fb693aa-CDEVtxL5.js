@@ -1,0 +1,1 @@
+import{o as r}from"./rolldown-runtime-iuO8RvI4.js";import{Ri as o}from"./vendor-frame-U999FJ0Q.js";import{X as a}from"./vendor-icons-Buqytpkb.js";import{t as s}from"./c8fb693aa-DneRnBWv.js";var e=r(o(),1),m=e.forwardRef((r,o)=>e.createElement(a,{ref:o,...r,weights:s}));m.displayName="MinusIcon";var t=m;export{t as n,m as t};

@@ -1,0 +1,1 @@
+import{Fi as r}from"./vendor-frame-U999FJ0Q.js";import{Vi as o}from"./shared-6-ByOxD2hN.js";import{t as a}from"./cb1f26920-Br3faRLR.js";var n=r();function e({anchorRef:r}){const e=o("rc-onboarding",{enabled:!0});return e&&r.current?(0,n.jsx)(a,{coachmark:e,anchor:r}):null}export{e as RemoteControlOnboardingCoachmarkCallout};

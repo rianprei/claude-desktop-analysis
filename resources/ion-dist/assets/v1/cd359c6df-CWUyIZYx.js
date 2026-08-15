@@ -1,0 +1,1 @@
+import{Fi as e}from"./vendor-frame-U999FJ0Q.js";var t=e(),r=({submitOnCmdEnter:e=!0,onSubmit:r,onKeyDown:n,...o})=>(0,t.jsx)("form",{...o,onSubmit:e=>{o.method||e.preventDefault(),r?.(e)},onKeyDown:t=>{e&&"Enter"===t.key&&(t.metaKey||t.ctrlKey)&&t.currentTarget.requestSubmit(),n?.(t)}});export{r as t};

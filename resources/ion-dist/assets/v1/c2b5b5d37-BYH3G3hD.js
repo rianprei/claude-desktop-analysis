@@ -1,0 +1,1 @@
+import{o as r}from"./rolldown-runtime-iuO8RvI4.js";import{Kr as e}from"./shared-0-ASFdPfVu.js";import{Fi as n,Ri as o}from"./vendor-frame-U999FJ0Q.js";var a=r(o()),t=n();function s({name:r,children:n}){const{page:o}=e(),s=(0,a.useRef)(!1);return"undefined"==typeof window||s.current||(s.current=!0,o(r,{named_page:!0})),(0,t.jsx)(t.Fragment,{children:n})}export{s as t};

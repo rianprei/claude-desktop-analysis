@@ -1,0 +1,1 @@
+import{Fi as r}from"./vendor-frame-U999FJ0Q.js";import{Rn as s}from"./shared-5-C6AoxPkL.js";import{t as a}from"./cfdcd4a01-DHTCXpw1.js";var o=r();function t(){return s()?(0,o.jsx)(a,{}):null}export{t as default};import"./shared-DBfQrKjs.js";import"./c175642ce-C8XS-EhR.js";

@@ -1,0 +1,1 @@
+import{o as r}from"./rolldown-runtime-iuO8RvI4.js";import{Fi as o}from"./vendor-frame-U999FJ0Q.js";import{Zd as s,na as t}from"./shared-4-DgPI-kM5.js";var n=o();function a(){return t()?null:(0,n.jsx)(s,{to:"/settings"})}function e(){return(0,n.jsx)(a,{})}export{e as default};

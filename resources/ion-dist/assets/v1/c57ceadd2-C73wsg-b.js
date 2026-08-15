@@ -1,0 +1,1 @@
+var a=a=>e=>{if(!e)return;const r=e.pages.length-1;return{...e,pages:e.pages.map((e,s)=>a(e,s===r))}},e=(a,e)=>a[e]??[],r=(a,e,r)=>({...a,[e]:r}),s=(s,t)=>a((a,p)=>p?r(a,s,[...e(a,s),t]):a),t=(s,t)=>a(a=>r(a,s,e(a,s).filter(a=>!t(a)))),p=(s,t)=>a(a=>r(a,s,e(a,s).map(t)));export{t as n,p as r,s as t};

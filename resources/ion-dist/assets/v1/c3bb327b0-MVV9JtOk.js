@@ -1,0 +1,1 @@
+import{r as c}from"./c25d902c2-Dbv6uExJ.js";function t(c,t){c.accDescr&&t.setAccDescription?.(c.accDescr),c.accTitle&&t.setAccTitle?.(c.accTitle),c.title&&t.setDiagramTitle?.(c.title)}c(t,"populateCommonDb");export{t};

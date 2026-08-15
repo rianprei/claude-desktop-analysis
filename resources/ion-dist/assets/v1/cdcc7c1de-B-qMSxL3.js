@@ -1,0 +1,1 @@
+import{Fi as r}from"./vendor-frame-U999FJ0Q.js";import{Vi as o}from"./shared-6-ByOxD2hN.js";import{t as a}from"./cb1f26920-Br3faRLR.js";var e=r();function s({anchorRef:r}){const s=o("home-projects",{enabled:!0});return s?(0,e.jsx)(a,{coachmark:s,anchor:r}):null}export{s as HomeProjectsNuxCoachmark};

@@ -1,0 +1,1 @@
+import{yr as a}from"./shared-0-ASFdPfVu.js";import{Fi as r}from"./vendor-frame-U999FJ0Q.js";var s=r(),o=r=>(0,s.jsx)(a,{...r,children:(0,s.jsx)("path",{d:"M13.24 3.072a.5.5 0 0 1 .667.718l-.067.076L7.233 10l6.607 6.134a.5.5 0 1 1-.68.732l-7-6.5-.068-.077a.5.5 0 0 1 .068-.655l7-6.5z"})});export{o as t};

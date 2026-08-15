@@ -1,0 +1,1 @@
+function t(t){const o=t?.trim();if(!o)return null;let r;try{r=new URL(o)}catch{return/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(o)?`mailto:${o.replace(/[?#%]/g,encodeURIComponent)}`:null}return"http:"===r.protocol||"https:"===r.protocol||"mailto:"===r.protocol?r.href:null}export{t};

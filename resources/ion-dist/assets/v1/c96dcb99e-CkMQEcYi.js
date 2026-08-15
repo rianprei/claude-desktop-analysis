@@ -1,0 +1,1 @@
+import{o as r}from"./rolldown-runtime-iuO8RvI4.js";import{Fi as e,Ri as n}from"./vendor-frame-U999FJ0Q.js";var t=r(n()),o=e(),i=(0,t.createContext)({});function a(){return(0,t.useContext)(i)}function s({hints:r,children:e}){return(0,o.jsx)(i.Provider,{value:r,children:e})}export{a as n,s as t};

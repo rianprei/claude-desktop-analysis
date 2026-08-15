@@ -1,0 +1,1 @@
+function n(n){if(n<1e3)return String(n);if(n<999950){const t=(n/1e3).toFixed(1);return t.endsWith(".0")?`${t.slice(0,-2)}K`:`${t}K`}const t=(n/1e6).toFixed(1);return t.endsWith(".0")?`${t.slice(0,-2)}M`:`${t}M`}function t(n){return"Anthropic"===n?.name}export{t as n,n as t};

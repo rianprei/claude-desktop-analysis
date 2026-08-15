@@ -1,0 +1,1 @@
+function e(e){return Object.values(e?.seat_tier_quantities??{}).reduce((e,t)=>e+(t??0),0)}export{e as t};

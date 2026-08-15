@@ -1,0 +1,1 @@
+import{t}from"./vendor-luxon-CdNlmaOL.js";function o(o){const n=t.now(),e=t.fromISO(o),s=e.diff(n,"minutes").toObject().minutes;return s&&Math.abs(s)<=1?"just now":e.toRelative()}export{o as t};

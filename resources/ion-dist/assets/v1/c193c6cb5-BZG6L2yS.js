@@ -1,0 +1,1 @@
+import{xf as r}from"./shared-0-ASFdPfVu.js";import{zu as s}from"./shared-1-Cu-_PEM9.js";import{d as a}from"./vendor-intl-BIq5myDP.js";var o=()=>r("__gb__888349763");function t(){return o()&&false}function n(r){const t=o(),n=a();return t&&s(n.messages,r)}export{n,o as r,t};

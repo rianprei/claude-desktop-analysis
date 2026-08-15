@@ -1,0 +1,1 @@
+import{Fi as s}from"./vendor-frame-U999FJ0Q.js";import{Zd as o}from"./shared-4-DgPI-kM5.js";import{n as r}from"./c22de6e23-CtmCd_bJ.js";import{n as t,t as a}from"./c94fbcf3e-Dy3mvoal.js";var e=s();function m(){const{showPage:s,isLoading:m}=r();return t()?(0,e.jsx)(a,{}):m?null:s?(0,e.jsx)(o,{to:"/admin-settings/members"}):(0,e.jsx)(o,{to:"/settings"})}export{m as default};

@@ -1,0 +1,1 @@
+function r(r,t){var n=-1,a=r.length;for(t||(t=Array(a));++n<a;)t[n]=r[n];return t}export{r as t};

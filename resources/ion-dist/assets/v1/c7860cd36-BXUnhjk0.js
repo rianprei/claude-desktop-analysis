@@ -1,0 +1,1 @@
+var n="ccd-terminal:focus-in",t="data-ccd-terminal";function a(t){window.dispatchEvent(new CustomEvent(n,{detail:{sessionId:t}}))}function e(){const n=document.activeElement;return!!n&&null!==n.closest("[data-ccd-terminal]")}var s=new Set;function c(n){s.add(n)}function i(n){return s.has(n)}function o(n){s.delete(n)}export{t as a,n as i,i as n,e as o,c as r,a as s,o as t};

@@ -1,0 +1,1 @@
+import"./c10bc8c81-DCjAwkjG.js";import{b as c,x as o}from"./cd9160391-CC3V4oKv.js";export{o as createArchitectureServices};

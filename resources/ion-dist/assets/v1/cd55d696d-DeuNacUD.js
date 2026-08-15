@@ -1,0 +1,1 @@
+import{Ji as a,ra as r}from"./shared-0-ASFdPfVu.js";function t(){const{activeOrganization:t}=a(),i=r();return!!t&&!i}export{t};

@@ -1,0 +1,1 @@
+import{Fi as r}from"./vendor-frame-U999FJ0Q.js";var h=r();function t({size:r=16}){return(0,h.jsx)("svg",{width:r,height:r,viewBox:"0 0 28 28",fill:"currentColor",xmlns:"http://www.w3.org/2000/svg",children:(0,h.jsx)("path",{d:"M20 4h-4.3l7.7 19.5h4.2L20 4ZM7.6 4 0 23.5h4.3L6 19.4h8l1.6 4h4.3L12.1 4H7.7Zm-.4 11.8 2.6-6.9 2.7 6.9H7.3Z"})})}export{t};

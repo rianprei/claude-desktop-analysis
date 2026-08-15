@@ -1,0 +1,1 @@
+import{o as r}from"./rolldown-runtime-iuO8RvI4.js";import{Fi as e,Pi as o,Ri as s}from"./vendor-frame-U999FJ0Q.js";var a=r(s()),d=e(),m=(0,a.memo)(function({className:r,children:e}){return(0,d.jsx)("div",{className:o("rounded-md border border-border-300 bg-surface-1 px-3 py-2 text-sm text-secondary",r),children:e})});export{m as t};

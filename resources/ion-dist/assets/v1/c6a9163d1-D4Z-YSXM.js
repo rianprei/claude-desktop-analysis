@@ -1,0 +1,1 @@
+import{kf as o}from"./shared-0-ASFdPfVu.js";function n(){return o(()=>window.location.hash.slice(1),null)}export{n as t};

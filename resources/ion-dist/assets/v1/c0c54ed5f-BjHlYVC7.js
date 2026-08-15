@@ -1,0 +1,1 @@
+var t={snappyOut:[.19,1,.22,1],inOutQuart:[.77,0,.175,1],outCirc:[.075,.82,.165,1],inOutBase:[.25,.1,.25,1]};export{t};

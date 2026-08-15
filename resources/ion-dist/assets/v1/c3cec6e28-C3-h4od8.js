@@ -1,0 +1,1 @@
+import{o as r}from"./rolldown-runtime-iuO8RvI4.js";import{Ri as o}from"./vendor-frame-U999FJ0Q.js";import{X as e}from"./vendor-icons-Buqytpkb.js";import{t as a}from"./c3cec6e28-C4JVO-ZU.js";var m=r(o(),1),s=m.forwardRef((r,o)=>m.createElement(e,{ref:o,...r,weights:a}));s.displayName="ArrowSquareOutIcon";var t=s;export{s as n,t};

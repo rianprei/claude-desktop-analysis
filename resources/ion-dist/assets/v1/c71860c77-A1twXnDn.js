@@ -1,0 +1,1 @@
+import{o as r}from"./rolldown-runtime-iuO8RvI4.js";import{Fi as a,Ri as o}from"./vendor-frame-U999FJ0Q.js";import{X as s}from"./index-Kyn-_GAK.js";var i=r(o()),n=a(),e=s.__built("cardinal");function l(){return(0,n.jsx)(i.Suspense,{fallback:null,children:(0,n.jsx)(e,{})})}export{l as default};

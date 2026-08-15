@@ -1,0 +1,1 @@
+import{Pl as e}from"./shared-1-Cu-_PEM9.js";var r="epitaxy-transcript-links-in-preview";function n(){return e(r,!0)}function s(){return e("epitaxy-transcript-links-chooser-seen",!1)}function t(e){const[r]=n(),[t]=s();return(i={linksInPreview:r,chooserSeen:t,chooserPathReady:e}).linksInPreview&&(i.chooserSeen||!i.chooserPathReady);var i}export{n as i,t as n,s as r,r as t};

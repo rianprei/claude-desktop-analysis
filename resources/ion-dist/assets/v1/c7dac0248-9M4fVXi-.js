@@ -1,0 +1,1 @@
+import{ns as s,ts as r}from"./shared-10-Ba0MqTo9.js";var n="cowork-session-result:";function o(s,o){r(n,s,o)}function t(r){return s(n,r)}export{t as n,o as t};

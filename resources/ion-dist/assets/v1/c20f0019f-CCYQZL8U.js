@@ -1,0 +1,1 @@
+import{Fi as a}from"./vendor-frame-U999FJ0Q.js";import{Y as r}from"./shared-frame-DFHn2b4_.js";import{s}from"./vendor-intl-BIq5myDP.js";var e=a();function t({className:a}){return(0,e.jsx)(r,{variant:"neutral",className:a,children:(0,e.jsx)(s,{defaultMessage:"Beta",id:"riw/yc06Nq"})})}export{t};

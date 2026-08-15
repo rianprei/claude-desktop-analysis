@@ -1,0 +1,1 @@
+import{o as t}from"./rolldown-runtime-iuO8RvI4.js";import{Ri as e}from"./vendor-frame-U999FJ0Q.js";var n=t(e());function i(t){return document.addEventListener("visibilitychange",t),()=>document.removeEventListener("visibilitychange",t)}function r(){return"visible"===document.visibilityState}function o(){return!0}function u(){return(0,n.useSyncExternalStore)(i,r,o)}export{u as t};

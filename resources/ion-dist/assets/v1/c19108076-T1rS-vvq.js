@@ -1,0 +1,1 @@
+function e(e){const i=()=>{"visible"===document.visibilityState&&e()};return document.addEventListener("visibilitychange",i),window.addEventListener("focus",i),()=>{document.removeEventListener("visibilitychange",i),window.removeEventListener("focus",i)}}export{e as t};

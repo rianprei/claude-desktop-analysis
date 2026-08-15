@@ -1,0 +1,1 @@
+import{yr as a}from"./shared-0-ASFdPfVu.js";import{Fi as r}from"./vendor-frame-U999FJ0Q.js";var s=r(),m=r=>(0,s.jsx)(a,{...r,children:(0,s.jsx)("path",{d:"M4.5 8.5a1.5 1.5 0 1 1 0 3 1.5 1.5 0 0 1 0-3m5.5 0a1.5 1.5 0 1 1 0 3 1.5 1.5 0 0 1 0-3m5.5 0a1.5 1.5 0 1 1 0 3 1.5 1.5 0 0 1 0-3"})});export{m as t};

@@ -1,0 +1,1 @@
+import{Fi as r}from"./vendor-frame-U999FJ0Q.js";import{O as a}from"./shared-frame-DFHn2b4_.js";var o=r();function t(r){return(0,o.jsx)(a,{"data-cds":"FilterCombobox",variant:"outline",fullWidth:!1,...r})}export{t};

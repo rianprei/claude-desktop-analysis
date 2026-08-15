@@ -1,0 +1,1 @@
+import{o as r}from"./rolldown-runtime-iuO8RvI4.js";import{Ri as o}from"./vendor-frame-U999FJ0Q.js";import{d as m}from"./vendor-intl-BIq5myDP.js";import{_c as s}from"./shared-5-C6AoxPkL.js";var t=r(o());function a(){const{locale:r}=m();return(0,t.useMemo)(()=>Array.from({length:7},(o,m)=>s(m,r)),[r])}export{a as t};

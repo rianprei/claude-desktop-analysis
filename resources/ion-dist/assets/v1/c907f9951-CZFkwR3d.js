@@ -1,0 +1,1 @@
+import{q as i}from"./vendor-all-0-y3jtzwCY.js";var s=i()(i=>({visible:!1,setVisible:s=>i({visible:s})}));export{s as t};

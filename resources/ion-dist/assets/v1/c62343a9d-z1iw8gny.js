@@ -1,0 +1,1 @@
+import{Fi as a}from"./vendor-frame-U999FJ0Q.js";import{t as s}from"./c1ec8a7a7-C_FGpedj.js";import{d as r,t}from"./c3a41fcbb-Bxjgrb_9.js";var m=a();function e({listClassName:a,trimmed:e=!1}){return(0,m.jsx)(s,{points:e?r:t,align:"center",className:a})}export{e as t};

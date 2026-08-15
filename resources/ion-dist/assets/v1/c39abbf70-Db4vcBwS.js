@@ -1,0 +1,1 @@
+var t,n,e=null;function o(){e=null,t&&(clearTimeout(t),t=void 0),n&&(clearTimeout(n),n=void 0)}function u(n){o(),e=n,t=setTimeout(o,1e4)}function i(){return e}function r(){e&&(n=setTimeout(o,0))}export{i as n,u as r,r as t};

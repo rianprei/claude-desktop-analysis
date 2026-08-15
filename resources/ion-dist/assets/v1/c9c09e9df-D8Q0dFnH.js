@@ -1,0 +1,1 @@
+import{ln as s}from"./shared-0-ASFdPfVu.js";import{Fi as a,Pi as e}from"./vendor-frame-U999FJ0Q.js";var r=a();function t({children:a,className:t}){return(0,r.jsxs)("div",{className:e("flex items-start gap-1",t),children:[(0,r.jsx)(s,{className:"text-danger-000 mt-0.5 shrink-0",size:16}),(0,r.jsx)("p",{className:"text-danger-000 text-sm",children:a})]})}export{t};

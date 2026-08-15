@@ -1,0 +1,1 @@
+import{o as r}from"./rolldown-runtime-iuO8RvI4.js";import{Ri as e}from"./vendor-frame-U999FJ0Q.js";import{_ as s,d as o}from"./vendor-query-DWpKiJJc.js";var t=r(e(),1);function a(r,e){const a=o(e),n=a.getQueryCache();return t.useSyncExternalStore(t.useCallback(r=>n.subscribe(s.batchCalls(r)),[n]),()=>a.isFetching(r),()=>a.isFetching(r))}export{a as t};

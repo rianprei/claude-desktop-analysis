@@ -1,0 +1,1 @@
+var t="https://status.claude.com/",e="https://support.claude.com/en/articles/13345190-get-started-with-claude-cowork",a="https://support.claude.com/en/articles/13345190-get-started-with-claude-cowork#h_e1353133dd";export{a as n,t as r,e as t};

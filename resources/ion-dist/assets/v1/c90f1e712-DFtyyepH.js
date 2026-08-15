@@ -1,0 +1,1 @@
+import{Fi as r}from"./vendor-frame-U999FJ0Q.js";import{zv as s}from"./shared-1-Cu-_PEM9.js";import{Mi as a}from"./shared-2-C9GvQceD.js";import{s as o}from"./vendor-intl-BIq5myDP.js";var e=r();function t(){return(0,e.jsx)(a,{variant:"secondary",href:s,children:(0,e.jsx)(o,{defaultMessage:"Back to connectors",id:"+GGt+mfiDq"})})}export{t};

@@ -1,0 +1,1 @@
+function e(e,n){return("pending"===e?"":e)||("pending"===n?"":n)}Object.freeze({claude_web_login:"",aws_marketplace:"",trust_portal:"",oauth_consent:"",console_login:""});export{e as t};

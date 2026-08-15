@@ -1,0 +1,1 @@
+import{C as a,a as t,k as o}from"./vendor-zod-CyvpgZlC.js";var e=a({anchorId:o(),bodyText:o(),ariaLabel:o(),title:o().optional(),badgeText:o().optional(),side:t(["top","bottom","left","right"]).optional(),align:t(["start","center","end"]).optional(),variant:t(["neutral","accent"]).optional(),legacyNuxId:o().optional()});export{e as t};

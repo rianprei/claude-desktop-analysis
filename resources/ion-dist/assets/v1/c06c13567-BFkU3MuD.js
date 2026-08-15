@@ -1,0 +1,1 @@
+var s="propose_skills",o="coach_propose_skills_enabled";export{s as n,o as t};

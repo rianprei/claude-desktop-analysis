@@ -1,0 +1,1 @@
+import{Ja as e}from"./shared-0-ASFdPfVu.js";function r(){return!e("conversation_preferences").isAvailable}export{r as t};

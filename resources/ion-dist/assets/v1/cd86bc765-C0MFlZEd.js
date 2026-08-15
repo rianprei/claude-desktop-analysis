@@ -1,0 +1,1 @@
+import{n as e}from"./vendor-utils-DqliYCDg.js";var i={isCaseSensitive:!1,ignoreLocation:!0,threshold:.2,keys:[{name:"name",weight:.7},{name:"description",weight:.3}]};function n(n,t){return new e(n,i).search(t).map(e=>e.item)}export{n as cxDirSearchServersLegacy};

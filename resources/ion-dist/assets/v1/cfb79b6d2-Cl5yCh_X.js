@@ -1,0 +1,1 @@
+import{nn as o}from"./shared-0-ASFdPfVu.js";function t(o){return`ef-shown.${o}`}function n(n){o(t(n),!0)}function r(){try{const o=`LSS-${t("")}`;for(const t of Object.keys(window.localStorage))t.startsWith(o)&&window.localStorage.removeItem(t)}catch{}}export{t as n,n as r,r as t};

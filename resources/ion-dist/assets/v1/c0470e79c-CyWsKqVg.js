@@ -1,0 +1,1 @@
+import{o as r}from"./rolldown-runtime-iuO8RvI4.js";import{Ri as o}from"./vendor-frame-U999FJ0Q.js";import{at as a,dt as e}from"./vendor-icons-Buqytpkb.js";var m=r(o(),1),s=m.forwardRef((r,o)=>m.createElement(e,{ref:o,...r,weights:a}));s.displayName="CheckIcon";var t=s;export{t};

@@ -1,0 +1,1 @@
+import{it as t}from"./vendor-frame-U999FJ0Q.js";var n=new Map;function r(r,o){const e=JSON.stringify({locale:t(r),options:o}),a=n.get(e);if(a)return a;const s=new Intl.NumberFormat(r,o);return n.set(e,s),s}function o(t,n,o){return null==t?"":r(n,o).format(t)}export{r as n,o as t};
